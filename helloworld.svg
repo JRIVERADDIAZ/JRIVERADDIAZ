@@ -7,7 +7,7 @@
                   font-family: "Vibur", sans-serif;
 	          heigth:100%;
 		  width:100%;
-		  background-color: #333333;
+		
                  }  
 			h1 {
 	          color: #FFF56D;
