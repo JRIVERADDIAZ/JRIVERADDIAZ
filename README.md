@@ -1,9 +1,9 @@
 <div align="center">
 
 <br>
-<a href="https://github.com/JRIVERADDIAZ/JRIVERADDIAZ/blob/master/helloworld.svg">
-<img src="./hellowolrd.svg" width="800" height="400" alt="Click to see the source">
-  </a>
+
+<img src="hellowolrd.svg" align="center" width="800" height="400">
+
 <br>
 </div>
 
