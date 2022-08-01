@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="hellowolrd.svg">
+<img src="hellowolrd.svg" align="center" style="width: 100%; height:100% " >
 
 <br>
 </div>
