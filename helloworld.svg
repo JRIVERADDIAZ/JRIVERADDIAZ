@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+            .container {
+                  font-size: 18px;
+                  font-family: "Vibur", sans-serif;
+                  background-color: #010a01;
+                 }  
+			h1 {
+				  color: #FFF56D;
+                  border: 0px;
+                  text-shadow:
+                  0 0 7px #fff,
+                  0 0 10px #fff,
+                  0 0 21px #fff,
+                  0 0 42px #0fa,
+                  0 0 82px #0fa,
+                  0 0 92px #0fa,
+                  0 0 102px #0fa,
+                  0 0 151px #0fa;
+                  transform: rotate(90deg);
+                  text-align: center;
+                  font-weight: 400;
+                  font-size: 4.2rem;
+				}
+		 	h2 {
+				  color: #FFF56D;
+                  border 0px;
+                  text-shadow:
+                  0 0 7px #fff,
+                  0 0 10px #fff,
+                  0 0 21px #fff,
+                  0 0 42px #0fa,
+                  0 0 82px #0fa,
+                  0 0 92px #0fa,
+                  0 0 102px #0fa,
+                  0 0 151px #0fa;
+                  text-align: center;
+                  font-size: 4.2rem;
+                  text-transform: uppercase;
+                  font-weight: 400;
+				}
+			</style>
+			<div class="container">
+				<h1> =) </h1>
+				<h2>Hello World!!!</h2>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
