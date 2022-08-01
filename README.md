@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="hellowolrd.svg" align="center" width="800" height="400">
+<img src="hellowolrd.svg">
 
 <br>
 </div>
