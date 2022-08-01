@@ -1,44 +1,11 @@
+<div align="center">
 
-<div style="
-margin: 4vh;">
+<br>
 
- <h1 style="
-  color: #FFF56D;
-  border: 0px;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-      0 0 151px #0fa;
-  transform: rotate(90deg);
-  text-align: center;
-  font-weight: 400;
-  font-size: 4.2rem;
-  " >
-           : )  
-  </h1>
+<img src="./hellowWolrd.svg" width="800" height="400" alt="Click to see the
+source">
 
-<h2 style="
- color: #FFF56D;
- border 0px;
- text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-      0 0 151px #0fa;
- text-align: center;
- font-size: 4.2rem;
- text-transform: uppercase;
- font-weight: 400;
-"> Hello world!!!</h2>
+<br>
 
 </div>
 
