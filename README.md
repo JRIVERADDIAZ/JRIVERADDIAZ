@@ -7,7 +7,7 @@
 <br>
 </div>
 
-## Hi! im AJ Rivera Front end Developer
+## Hi! im AJ Rivera Full Stack Developer
 
 ### Im a front end jr. developer here you gonna see csome projects using several tecnologies
 
