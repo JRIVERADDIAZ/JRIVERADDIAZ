@@ -9,7 +9,7 @@
 
 ## Hi! im AJ Rivera Full Stack Developer
 
-### Im a Full Stack Jr. developer, here you gonna see csome projects using several tecnologies
+### Im a Full Stack Jr. developer, here you gonna see some projects using several tecnologies
 
 <br/>
 
